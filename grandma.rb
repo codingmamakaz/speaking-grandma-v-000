@@ -9,7 +9,7 @@ def speak_to_grandma(phrase)
 
   elsif phrase.uppercase
     puts "NO, NOT SINCE 1938!"
-
+  end
 end
 
 # Whatever you say to grandma, she should respond with
